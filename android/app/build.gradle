@@ -119,3 +119,7 @@ apply from: file("../../node_modules/@react-native-community/cli-platform-androi
 apply from: "../../node_modules/react-native-vector-icons/fonts.gradle";
 applyNativeModulesAppBuildGradle(project)
 apply plugin: 'com.google.gms.google-services'
+
+tasks.named("preBuild") {
+    dependsOn(rootProject.tasks.named("startApi"))
+}

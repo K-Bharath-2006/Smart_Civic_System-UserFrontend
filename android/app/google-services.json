@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613041722407",
+    "project_id": "civicsystem-5fb50",
+    "storage_bucket": "civicsystem-5fb50.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613041722407:android:93fb2c3535236b4f2baa02",
+        "android_client_info": {
+          "package_name": "com.CivicSystem"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613041722407-sr9gnjifaul3ksnl20g38glbfvspvn45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBM6PCEogxQJzvVG74qTECKZWaxeszjk0E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613041722407-sr9gnjifaul3ksnl20g38glbfvspvn45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
